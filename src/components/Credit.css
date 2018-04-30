@@ -1,0 +1,24 @@
+.credit-wrapper {
+    background: linear-gradient(to right, #ece9e6, #ffffff);
+    height: auto;
+    border-radius: 1%;
+    padding: 15px;
+    text-align: center;
+}
+
+.credit-main {
+    text-align: center;
+    padding: 10px;
+}
+
+.show-grid {
+    margin: 30px;
+}
+
+.credit-results {
+    height: auto;
+    border: 2px solid #d2d4d8;
+    padding: 20px;
+    margin-top: 30px; 
+    
+}
